@@ -164,4 +164,4 @@ Microsoft 365・Windows・ネットワーク・権限管理を専門としてい
 
 ## 関連記事
 
-note：（noteの記事URLをここに貼る）
+note：https://note.com/typewitter/n/n12d132ed3a5e
