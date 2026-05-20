@@ -139,7 +139,7 @@ Use chain-of-thought（CoT）
 
 ## 関連記事
 
-note：（noteの記事URLをここに貼る）
+https://note.com/typewitter/n/n71f65a2b36d8
 
 ## 関連ファイル
 
