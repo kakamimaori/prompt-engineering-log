@@ -229,7 +229,7 @@ Use prompt chaining（Prompt chaining）
 
 ## 関連記事
 
-note：（noteの記事URLをここに貼る）
+note：https://note.com/typewitter/n/n6d59f6d611f8
 
 ## 関連ファイル
 
